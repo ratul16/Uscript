@@ -51,6 +51,8 @@ def organize():
                           os.getcwd() + '/Other/' + str(Path(dir)))
         except:
             pass
+        
+    print("Directory Organizing Completed !!. Have a nice Day ^_^ ")
 
 
 if __name__ == "__main__":
