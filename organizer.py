@@ -11,13 +11,13 @@ DIRECTORIES = {
     "Documents": [".oxps", ".epub", ".pages", ".docx", ".doc", ".fdf", ".ods",
                   ".odt", ".pwi", ".xsn", ".xps", ".dotx", ".docm", ".dox",
                   ".rvg", ".rtf", ".rtfd", ".wpd", ".xls", ".xlsx", ".ppt",
-                  "pptx", ".pdf"],
+                  ".pptx", ".pdf", ".csv"],
     "Compressed": [".a", ".ar", ".cpio", ".iso", ".tar", ".gz", ".rz", ".7z",
                    ".dmg", ".rar", ".xar", ".zip"],
     "Music": [".aac", ".aa", ".aac", ".dvf", ".m4a", ".m4b", ".m4p", ".mp3",
               ".msv", "ogg", "oga", ".raw", ".vox", ".wav", ".wma"],
     "Plaintext": [".txt", ".in", ".out"],
-    "Srcipts": [".py", ".js", ".html5", ".html", ".htm", ".xhtml", ".c", ".cpp", ".Java", ".css"],
+    "Srcipts": [".py", ".js", ".html5", ".html", ".htm", ".xhtml", ".c", ".cpp", ".Java", ".css", ".sql"],
     "Programs": [".exe"]
 }
 
